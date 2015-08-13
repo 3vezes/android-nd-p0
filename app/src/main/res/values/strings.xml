@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P0</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="header">peacehero</string>
+    <string name="p1">Spotify Streamer</string>
+    <string name="p2">Scores App</string>
+    <string name="p3">Library App</string>
+    <string name="p4">Build It Bigger</string>
+    <string name="p5">XYZ Reader</string>
+    <string name="p6">Capstone</string>
+</resources>
